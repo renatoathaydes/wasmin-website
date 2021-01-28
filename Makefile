@@ -1,0 +1,2 @@
+build:
+	magnanimous -style perldoc

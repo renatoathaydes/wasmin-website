@@ -1,0 +1,51 @@
+body {
+  font-size: 18px;
+  font-family: Helvetica;
+  background: #3C1053FF;
+  color: #FAEBEFFF;
+  margin: 0;
+}
+
+main {
+  max-width: 60em;
+  margin: auto;
+}
+
+header > h1 {
+  margin: 0;
+}
+
+.top-banner {
+  padding: 1em;
+  background: #76528BFF;
+  color: pink;
+  margin: 0;
+}
+
+/* #DF6589FF and Purple (#3C1053FF)*/
+/* #00B1D2FF) and Vibrant Yellow (#FDDB27FF */
+/* Lemon Tonic (#FCF951FF) and Purple (#422057FF) */
+/* Rose Pink (#DF6589FF) and Purple (#3C1053FF) */
+/* Pink (#FAEBEFFF) and Navy Blue (#333D79FF) */
+h1, h2, h3, h4, h5 {
+  padding: 0.4em;
+  background: #76528BFF;
+  color: pink;
+}
+
+pre {
+  border: solid black 1px;
+  padding: 10px;
+  overflow: scroll;
+  color: black;
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+a {
+    color: magenta;
+}
+
+a:visited {
+    color: pink;
+}
